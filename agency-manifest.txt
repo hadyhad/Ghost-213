@@ -1,0 +1,8 @@
+AGENCY: Ghost-213
+MOTTO: Securing the perimeter, tracking the ghosts.
+CASE: CASE-01
+TEAM:
+- Role 1: hadyhad (@hadyhad)
+- Role 2: [Mouad] (mouadbsetoile-dotcom)
+- Role 3: [Nazim] (NazimBoudjema22)
+- Role 4: [Ishak] (ishak/dote)
